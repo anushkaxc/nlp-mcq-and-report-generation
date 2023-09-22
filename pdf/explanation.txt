@@ -1,0 +1,1 @@
+This directory has code that reads text from pdf files using the PyPDF2 library and uses text summarisations alogorithms like TextRank and Word Frequency methodology to get Extractive summaries.  
